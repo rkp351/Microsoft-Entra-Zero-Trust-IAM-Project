@@ -1,0 +1,48 @@
+                          ┌───────────────────────────────┐
+                          │        Users & Devices        │
+                          │  - Employees                  │
+                          │  - Admins                     │
+                          │  - Managed / Unmanaged        │
+                          └───────────────┬───────────────┘
+                                          │
+                                          ▼
+                          ┌───────────────────────────────┐
+                          │       Microsoft Entra ID      │
+                          │  - Authentication             │
+                          │  - SSO                        │
+                          │  - MFA / Auth Strengths       │
+                          └───────────────┬───────────────┘
+                                          │
+                                          ▼
+        ┌──────────────────────────────────────────────────────────────────┐
+        │                        Conditional Access                        │
+        │  - MFA for all users                                             │
+        │  - Block legacy authentication                                   │
+        │  - High Security MFA for Azure Portal                            │
+        │  - Device compliance for admins                                  │
+        │  - Risk-based policies                                           │
+        └───────────────────────────┬──────────────────────────────────────┘
+                                    │
+                                    ▼
+        ┌──────────────────────────────────────────────────────────────────┐
+        │                        Identity Protection                       │
+        │  - Sign-in risk policy (Medium+)                                 │
+        │  - User risk policy (High)                                       │
+        └───────────────────────────┬──────────────────────────────────────┘
+                                    │
+                                    ▼
+        ┌──────────────────────────────────────────────────────────────────┐
+        │             Privileged Identity Management (PIM)                 │
+        │  - Eligible roles                                                │
+        │  - Just-in-time activation                                       │
+        │  - Approval workflows                                            │
+        │  - Time-bound privileged access                                  │
+        └───────────────────────────┬──────────────────────────────────────┘
+                                    │
+                                    ▼
+                          ┌───────────────────────────────┐
+                          │       Protected Resources     │
+                          │  - Azure Portal               │
+                          │  - Microsoft 365              │
+                          │  - Enterprise Apps            │
+                          └───────────────────────────────┘
