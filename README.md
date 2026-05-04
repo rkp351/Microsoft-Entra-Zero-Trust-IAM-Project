@@ -1,5 +1,7 @@
 # Microsoft Entra ID Zero Trust IAM Project
 
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoftazure&logoColor=white)
+
 ## 📌 Overview
 This repository documents a complete Zero Trust Identity & Access Management (IAM) implementation using Microsoft Entra ID.  
 It includes Conditional Access, Authentication Strengths, Identity Protection, Device Compliance, and Privileged Identity Management (PIM).
