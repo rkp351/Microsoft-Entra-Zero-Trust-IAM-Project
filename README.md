@@ -3,6 +3,8 @@
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoftazure&logoColor=white)
 ![IAM](https://img.shields.io/badge/Identity%20%26%20Access%20Management-4B0082)
 ![Zero Trust](https://img.shields.io/badge/Zero%20Trust-Security-blue)
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
+
 
 
 ## 📌 Overview
